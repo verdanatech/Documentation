@@ -128,25 +128,3 @@ Você deve passar estes 2 parâmetros na autenticação básica http. Consiste e
 |----------|------|-------------------------|
 | Content  | text | Conteúdo do solução      |
 
-### GET Listar chamados
-
-`{{URL}}/search/Ticket`
-
-**HEADERS**
-
-| Campo       | Valor       |
-|-------------|-------------|
-| Bearer      | `<token>`   |
-| App-Token   | `<token>`   |
-
-**BODY** JSON
-
-```json
-{
- "content": "Solução de chamado via API"
-}
-```
-
-| Atributo | Descrição                         |
-|----------|-----------------------------------|
-| Search   | Condições para a consulta         |
