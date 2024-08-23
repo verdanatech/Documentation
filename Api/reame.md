@@ -1,5 +1,5 @@
 
-# Verdanadesk x SAP
+# Verdanadesk API
 
 ## SUMÁRIO
 
@@ -14,11 +14,6 @@
   - POST Criar uma solução
   - GET Listar chamados
 
-## HISTÓRICO DE REGISTRO
-
-| VERSÃO | DATA       | AUTOR           | DESCRIÇÃO                        |
-|--------|------------|-----------------|----------------------------------|
-| 1.0    | 20/08/2024 | Márcio Fernandes | Desenvolvimento de documento     |
 
 ## Error Response
 
