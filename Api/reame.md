@@ -3,7 +3,6 @@
 
 ## SUMÁRIO
 
-- HISTÓRICO DE REGISTRO
 - Error Response
 - CÓDIGO DE RESPOSTA DE ERRO PARA API
 - Auth
